@@ -29,6 +29,8 @@
 
 O objetivo é ensinar a como construir uma aplicação em python para realizar o envio automático de mensagens e qualquer tipo de arquivo no WhatsApp para lista de contatos (pessoas, números de celular e grupos) a partir de dados lidos em uma planilha de Excel e pasta com arquivos.
 
+**Playlist:** [Automatizando o envio de mensagens e arquivos no WhatsApp com Python](https://www.wazana.dev/playlist/automatizando-o-envio-de-mensagens-e-arquivos-no-whatsapp-com-python).
+
 ### Nível
 - [x] - Intermediário
 
